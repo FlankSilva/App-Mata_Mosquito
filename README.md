@@ -8,6 +8,6 @@ Para utilizar essa aplicação, basta cloner esse projeto e inicializar o INDEX.
 ## Como funciona
 O projeto foi desenvolvido, para abordar os principais conceitos de criação de elementos.
 
-O jogo e bem simples, onde o objetivo e matar o maximo de mosquitos, antes que o tempo acabe. Caso o jogador não conseguir matar ele some e perdemos uma vida.
+![index_img](./imagens/index.JPG)
 
-![index_img](./imagens/game.png)
+O jogo e bem simples, onde o objetivo e matar o maximo de mosquitos, antes que o tempo acabe. Caso o jogador não conseguir matar ele some e perdemos uma vida.
